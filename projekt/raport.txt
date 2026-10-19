@@ -1,0 +1,15 @@
+RAPORT
+Wspolne: 
+harry potter
+avengers
+transformers
+Tylko w pierwszym: 
+wladca pierscieni
+hobbit
+turbo slimak
+Tylko w drugim: 
+spiderman
+superman
+godzilla
+
+
